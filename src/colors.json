@@ -1,0 +1,84 @@
+[
+  {
+    "name": "Cool Blue",
+    "colors": [
+      {
+        "name": "Blue 100",
+        "value": "#EBF8FF"
+      },
+      {
+        "name": "Blue 200",
+        "value": "#BEE3F8"
+      },
+      {
+        "name": "Blue 300",
+        "value": "#90CDF4"
+      },
+      {
+        "name": "Blue 400",
+        "value": "#63B3ED"
+      },
+      {
+        "name": "Blue 500",
+        "value": "#4299E1"
+      },
+      {
+        "name": "Blue 600",
+        "value": "#3182CE"
+      },
+      {
+        "name": "Blue 700",
+        "value": "#2B6CB0"
+      },
+      {
+        "name": "Blue 800",
+        "value": "#2C5282"
+      },
+      {
+        "name": "Blue 900",
+        "value": "#2A4365"
+      }
+    ]
+  },
+  {
+    "name": "Warm Red",
+    "colors": [
+      {
+        "name": "Red 100",
+        "value": "#FFF5F5"
+      },
+      {
+        "name": "Red 200",
+        "value": "#FED7D7"
+      },
+      {
+        "name": "Red 300",
+        "value": "#FEB2B2"
+      },
+      {
+        "name": "Red 400",
+        "value": "#FC8181"
+      },
+      {
+        "name": "Red 500",
+        "value": "#F56565"
+      },
+      {
+        "name": "Red 600",
+        "value": "#E53E3E"
+      },
+      {
+        "name": "Red 700",
+        "value": "#C53030"
+      },
+      {
+        "name": "Red 800",
+        "value": "#9B2C2C"
+      },
+      {
+        "name": "Red 900",
+        "value": "#742A2A"
+      }
+    ]
+  }
+]
